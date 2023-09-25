@@ -2,9 +2,9 @@
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
 
 ## :wave: About Me 
-<a href="https://twitter.com/O_Anu_O" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://twitter.com/gowra_manoj" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-<a href="https://www.linkedin.com/in/anu-sharma-2002/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://www.linkedin.com/in/venkatmanoj/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 
 - 🔭 I’m currently working at anz-bank as a application packager
@@ -32,7 +32,7 @@
 ## 📈Github Stats
 <p align="center">
 <a href="https://github.com/manoj-gowra">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnuSharma1729&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnuSharma1729&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manoj-gowra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manoj-gowra&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
